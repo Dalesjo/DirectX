@@ -1,0 +1,8 @@
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\x64\DalesjoRelease\DirectX.dll.config
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\x64\DalesjoRelease\DirectX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\x64\DalesjoRelease\DirectX.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\x64\DalesjoRelease\SlimDX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\x64\DalesjoRelease\SlimDX.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\x64\DalesjoRelease\SlimDX.xml
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\obj\x64\DalesjoRelease\DirectX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\obj\x64\DalesjoRelease\DirectX.pdb

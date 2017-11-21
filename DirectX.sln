@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectX", "DirectX\DirectX.csproj", "{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectXDebug", "DirectXDebug\DirectXDebug.csproj", "{0D74CD12-529D-42B0-909F-43CD53FBDA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DalesjoRelease|Any CPU = DalesjoRelease|Any CPU
+		DalesjoRelease|x64 = DalesjoRelease|x64
+		DalesjoRelease|x86 = DalesjoRelease|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.DalesjoRelease|Any CPU.ActiveCfg = DalesjoRelease|Any CPU
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.DalesjoRelease|Any CPU.Build.0 = DalesjoRelease|Any CPU
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.DalesjoRelease|x64.ActiveCfg = DalesjoRelease|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.DalesjoRelease|x64.Build.0 = DalesjoRelease|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.DalesjoRelease|x86.ActiveCfg = DalesjoRelease|x86
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.DalesjoRelease|x86.Build.0 = DalesjoRelease|x86
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Debug|x64.ActiveCfg = Debug|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Debug|x64.Build.0 = Debug|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Debug|x86.ActiveCfg = Debug|x86
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Debug|x86.Build.0 = Debug|x86
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Release|Any CPU.ActiveCfg = Release|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Release|Any CPU.Build.0 = Release|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Release|x64.ActiveCfg = Release|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Release|x64.Build.0 = Release|x64
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Release|x86.ActiveCfg = Release|x86
+		{74997A47-F6B1-43C7-89FC-D5B03D6B2BA5}.Release|x86.Build.0 = Release|x86
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.DalesjoRelease|Any CPU.ActiveCfg = DalesjoRelease|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.DalesjoRelease|Any CPU.Build.0 = DalesjoRelease|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.DalesjoRelease|x64.ActiveCfg = DalesjoRelease|x64
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.DalesjoRelease|x64.Build.0 = DalesjoRelease|x64
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.DalesjoRelease|x86.ActiveCfg = DalesjoRelease|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Debug|x64.ActiveCfg = Debug|x64
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Debug|x64.Build.0 = Debug|x64
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Release|x64.ActiveCfg = Release|x64
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Release|x64.Build.0 = Release|x64
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Release|x86.ActiveCfg = Release|Any CPU
+		{0D74CD12-529D-42B0-909F-43CD53FBDA74}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

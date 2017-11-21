@@ -1,0 +1,11 @@
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\DirectXDebug.exe.config
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\DirectXDebug.exe
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\DirectXDebug.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\DirectX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\SlimDX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\DirectX.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\SlimDX.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\bin\Debug\SlimDX.xml
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\obj\Debug\DirectXDebug.csprojResolveAssemblyReference.cache
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\obj\Debug\DirectXDebug.exe
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectXDebug\obj\Debug\DirectXDebug.pdb

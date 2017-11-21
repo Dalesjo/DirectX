@@ -1,0 +1,8 @@
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\Release\DirectX.dll.config
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\Release\DirectX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\Release\DirectX.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\Release\SlimDX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\Release\SlimDX.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\bin\Release\SlimDX.xml
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\obj\Release\DirectX.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\DirectX\DirectX\obj\Release\DirectX.pdb
